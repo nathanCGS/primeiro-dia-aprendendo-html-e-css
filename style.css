@@ -1,0 +1,51 @@
+body{
+    background: rgb(255, 238, 2);  
+    font-family: Verdana, Geneva, Tahoma, sans-serif;  
+    max-width: 1980px;
+    margin: auto;
+    text-align: center;
+}
+
+#title{
+    text-transform:initial
+
+    
+}
+
+#title, .post_title, .texto1 {
+    color: rgb(51, 46, 45)
+    
+    
+    
+}
+.subtitle {
+    color:brown
+}
+.post_title {
+    font-size: 40px;
+    font-style: italic;
+    margin: -1px;
+}
+
+.post {
+    background: rgb(255, 166, 0);
+    padding: 10px 130px;
+    border: 5px dashed rgb(0, 0, 0);
+    margin: -1px;
+}
+.texto1 {
+    font-size: 30px;
+    text-transform: initial;
+}
+.segue_o_pai {
+    padding-top: 20px;
+    font-size: 20px;
+}
+.post_img{
+    margin-bottom: auto;
+}
+.post_video {
+    padding-bottom: 1000px;
+    font-size: 40px;
+    font-family: verdana;
+}
